@@ -1,0 +1,28 @@
+https://kibana.tr.twistopay.com
+https://grafana.tr.twistopay.com
+https://prometheus-services.tr.twistopay.com
+https://prometheus-services.tr.twistopay.com/alertmanager
+https://thanos.tr.twistopay.com
+https://rancher.tr.twistopay.com
+https://ci.tr.twistopay.com
+https://sentry.tr.twistopay.com
+https://bi.tr.twistopay.com
+https://staging.tr.twistopay.com
+https://central.portworx.com
+http://staging.tr.twistopay.com/  twisto-backend
+http://staging.tr.twistopay.com/app/  nextjs-customer
+http://www.staging.tr.twistopay.com/  twisto-backend
+http://www.staging.tr.twistopay.com/app/  nextjs-customer
+http://api.staging.tr.twistopay.com/  twisto-backend
+http://payu.staging.tr.twistopay.com/  twisto-backend
+http://eshop.staging.tr.twistopay.com/  twisto-backend
+http://link.staging.tr.twistopay.com/  twisto-backend
+http://nikita.staging.tr.twistopay.com/  twisto-backend
+http://static.staging.tr.twistopay.com/  twisto-backend
+http://static.staging.tr.twistopay.com/app/  web-app
+http://sse.staging.tr.twistopay.com/events/  sse-server
+http://sse.staging.tr.twistopay.com/  sse-server
+http://sse.staging.tr.twistopay.com/health  sse-server
+http://sse.staging.tr.twistopay.com/metrics  sse-server
+http://payzeeproxy.staging.tr.twistopay.com/  payzeeproxy
+ 
